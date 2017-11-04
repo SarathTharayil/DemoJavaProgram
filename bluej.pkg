@@ -1,0 +1,21 @@
+#BlueJ package file
+package.editor.height=859
+package.editor.width=1799
+package.editor.x=-11
+package.editor.y=-11
+package.numDependencies=0
+package.numTargets=2
+target1.height=50
+target1.modifiers=0
+target1.name=STS_Cinemas
+target1.type=ClassTarget
+target1.width=140
+target1.x=70
+target1.y=10
+target2.height=50
+target2.modifiers=0
+target2.name=Menu_Driven_Series
+target2.type=ClassTarget
+target2.width=140
+target2.x=220
+target2.y=10
